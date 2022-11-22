@@ -17,7 +17,7 @@ const PetBanner = ({ petBanner }) => {
             <button type="button">{petBanner.buttonText}</button>
           </Link>
           <div className="desc">
-            <h5>Description</h5>
+           
             <p>{petBanner.desc}</p>
           </div>
         </div>

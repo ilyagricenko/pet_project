@@ -9,8 +9,8 @@ const Home = ({ products, bannerData }) => {
       <PetBanner petBanner={bannerData.length && bannerData[0]} />
 
       <div className="products-heading">
-        <h2>Most common orders</h2>
-        <p>For your pet with a care</p>
+        <h2>Наш магазин</h2>
+        <p>Для вашого улюбленця з турботою</p>
       </div>
 
       <div className="products-container">
